@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamim Khan</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shamim Khan</h1>
 <h3 align="center">A passionate MernStack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/@shamimkhan77655" target="blank"><img src="https://img.shields.io/twitter/follow/@shamimkhan77655?logo=twitter&style=for-the-badge" alt="@shamimkhan77655" /></a> </p>
@@ -23,4 +23,155 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamimkhan2006&show_icons=true&locale=en" alt="shamimkhan2006" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimkhan2006&" alt="shamimkhan2006" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimkhan2006&" alt="shamimkhan2006" /></p> -->
+
+
+
+<p align="center">
+  <img src="YOUR_BANNER_LINK" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Shamim Khan</h1>
+
+<h3 align="center">
+💻 Full Stack Web Developer | MERN Stack Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Things+🚀" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Web Developer** from **Bangladesh**.
+
+I enjoy building **modern, scalable, and user-friendly web applications** using React, Next.js, Node.js, Express, and MongoDB.
+
+Currently expanding my backend knowledge while solving real-world development challenges.
+
+---
+
+## 🌱 Current Activities
+
+- 🔭 Building **LegalEase – Lawyer Hiring Platform**
+- 🌱 Learning **TypeScript & Next.js**
+- 💻 Practicing **Data Structures & Algorithms**
+- 🚀 Exploring scalable backend architecture
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Live |
+|---------|-------------|------|
+| ⚖ LegalEase | Lawyer Hiring Platform | https://legalease-client-chi.vercel.app |
+| 💡 Idea Vault | Idea Sharing Platform | https://your-link.com |
+| 🕌 Qurbani Platform | Online Qurbani Management System | https://assignment-qurbani-project-9cq8.vercel.app |
+
+---
+
+## 📫 Contact
+
+📧 **Email:** mdshamim200616@gmail.com
+
+📍 **Location:** Dinajpur, Bangladesh
+
+📞 **Phone:** YOUR_PHONE_NUMBER
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/ShamimKhan2006">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shamimkhan99">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://x.com/ShamimKhan77655">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShamimKhan2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamimKhan2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ShamimKhan2006&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShamimKhan2006&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamimKhan2006&theme=tokyo-night"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShamimKhan2006&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 💬 Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+</p>
