@@ -89,6 +89,8 @@ fun_fact: "Code. Learn. Build. Repeat. 🚀"
 <br/>
 <img src="https://img.shields.io/badge/Stripe-6D28D9?style=for-the-badge&logo=stripe&logoColor=white" />
 <img src="https://img.shields.io/badge/Better%20Auth-D946EF?style=for-the-badge&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-6D28D9?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-D946EF?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 **Tools & Others**
 <br/>
